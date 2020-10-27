@@ -1,9 +1,11 @@
-# CitiBikeDataViz #Tableau 
-Exploring data from Citi Bike using Tableau 
+# CitiBikeDataViz	<h1>CitiBikeDataViz</h1>
+**Exploring data from Citi Bike using Tableau** 
 
 Citi Bike is the nation's largest bike share program, with 12,000 bikes and 750 stations across Manhattan, Brooklyn, Queens and Jersey City.  It can be used for quick trips with convenience in mind, and it’s also a fun and affordable way to get around town.
 
-The following dataset contains bike sharing transactions for July, August, and September 2019 with the following attributes:
+Since the Tableau workbook file is too large for Github to process, I have uploaded pictures of my visualizations and dashboard. 
+
+**The following dataset contains bike sharing transactions for July, August, and September 2019 located in Jersey City, NJ with the following attributes:**
 
 tripduration  (seconds)
 
