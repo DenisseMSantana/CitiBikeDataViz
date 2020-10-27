@@ -3,7 +3,7 @@
 
 Citi Bike is the nation's largest bike share program, with 12,000 bikes and 750 stations across Manhattan, Brooklyn, Queens and Jersey City.  It can be used for quick trips with convenience in mind, and it’s also a fun and affordable way to get around town.
 
-Since the Tableau workbook file is too large for Github to process, I have uploaded pictures of my visualizations and dashboard. 
+**Note:** Since the Tableau workbook file is too large for Github to process, I have uploaded pictures of my visualizations and dashboard located in the ('imgs') folder 
 
 **The following dataset contains bike sharing transactions for July, August, and September 2019 located in Jersey City, NJ with the following attributes:**
 
