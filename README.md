@@ -40,7 +40,7 @@ gender (integer, Zero=unknown, 1=male, 2=female)
 ### Feature Engineering
 
 **converting seconds to hours**
-In order to have converted tripduration from seconds to hours, I divided tripduration by 3600 and then multiplied by 60 which I then made into a new variable labeled TriptoHours
+In order to have converted tripduration from seconds to hours, I used the following formula [tripduration] / 3600 * 60 which I then made into a new variable labeled [TriptoHours]
 
 **converting Gender category into a string**
 
