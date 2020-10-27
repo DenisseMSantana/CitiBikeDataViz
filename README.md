@@ -36,3 +36,6 @@ usertype  (Customer = time based rental, Subscriber = annual member)
 birthyear (integer, yyyy)
 
 gender (integer, Zero=unknown, 1=male, 2=female)
+
+<h6>Feature Engineering</h6>
+In order to have converted  tripduration from seconds to hours, I divided  tripduration by 3600 and then multiplied by 60 which I then made into a new variable labeled   TriptoHours 
