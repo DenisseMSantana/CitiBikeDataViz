@@ -37,7 +37,8 @@ birthyear (integer, yyyy)
 
 gender (integer, Zero=unknown, 1=male, 2=female)
 
-<h5>Feature Engineering</h5>
+### Feature Engineering
+
 **converting seconds to hours**
 In order to have converted tripduration from seconds to hours, I divided tripduration by 3600 and then multiplied by 60 which I then made into a new variable labeled TriptoHours
 
@@ -51,6 +52,6 @@ ELSEIF [Gender]=2
 THEN 'Female'
 END`
 
-<h3> Now finally some visualizations :rocket: </h3>
+### Now finally some visualizations :rocket:
 
 [Tab_dv(/desktop/AvgTripPerStartingStation.png)]
