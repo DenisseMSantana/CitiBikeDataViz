@@ -1,5 +1,5 @@
-# CitiBikeDataViz	<h1>CitiBikeDataViz</h1>
-**Exploring data from Citi Bike using Tableau** 
+# CitiBikeDataViz
+<h2> Exploring data from Citi Bike using Tableau </h2>
 
 Citi Bike is the nation's largest bike share program, with 12,000 bikes and 750 stations across Manhattan, Brooklyn, Queens and Jersey City.  It can be used for quick trips with convenience in mind, and it’s also a fun and affordable way to get around town.
 
