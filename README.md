@@ -54,4 +54,12 @@ END`
 
 ### Now finally some visualizations :rocket:
 
-[Tab_dv(/desktop/AvgTripPerStartingStation.png)]
+![AvgTripPerStartingStation](https://user-images.githubusercontent.com/72951594/97278147-c4c8c480-180f-11eb-97fe-f31dd1efca62.png)
+ 
+ ![StartEndAvgHour](https://user-images.githubusercontent.com/72951594/97278266-f0e44580-180f-11eb-9507-d93fd322929e.png)
+
+![Stackedbar](https://user-images.githubusercontent.com/72951594/97278365-13765e80-1810-11eb-8333-bade19acafe0.png)
+
+![TopTen](https://user-images.githubusercontent.com/72951594/97278407-238e3e00-1810-11eb-9ef2-5b086185fa89.png)
+
+![AvgTripbyGender User](https://user-images.githubusercontent.com/72951594/97278459-34d74a80-1810-11eb-9bab-b9d7f010c161.png)
